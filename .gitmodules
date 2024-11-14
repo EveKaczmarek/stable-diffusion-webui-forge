@@ -1,18 +1,3 @@
-[submodule "extensions/a1111-sd-webui-tagcomplete"]
-	path = webui/extensions/a1111-sd-webui-tagcomplete
-	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git
-[submodule "extensions/adetailer"]
-	path = webui/extensions/adetailer
-	url = https://github.com/Bing-su/adetailer
-[submodule "extensions/sd-civitai-browser-plus"]
-	path = webui/extensions/sd-civitai-browser-plus
-	url = https://github.com/BlafKing/sd-civitai-browser-plus.git
-[submodule "extensions/sd-forge-couple"]
-	path = webui/extensions/sd-forge-couple
-	url = https://github.com/Haoming02/sd-forge-couple
-[submodule "extensions/sd-webui-infinite-image-browsing"]
-	path = webui/extensions/sd-webui-infinite-image-browsing
-	url = https://github.com/zanllp/sd-webui-infinite-image-browsing.git
-[submodule "extensions/sd-webui-hires-fix-tweaks"]
-	path = webui/extensions/sd-webui-hires-fix-tweaks
-	url = https://github.com/w-e-w/sd-webui-hires-fix-tweaks.git
+[submodule "webui"]
+	path = webui
+	url = https://github.com/lllyasviel/stable-diffusion-webui-forge/
